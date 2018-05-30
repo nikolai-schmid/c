@@ -1,6 +1,8 @@
 {
     "description": "n2n skeleton application installable by Composer",
-    "extra": [],
+    "extra": [
+        
+    ],
     "minimum-stability": "dev",
     "name": "n2n/n2n-skeleton",
     "prefer-stable": true,
@@ -16,7 +18,7 @@
         "n2n/n2n-impl-web-ui": "7.1.x-dev",
         "n2n/rocket": "1.1.x-dev",
         "n2n/page": "1.3.x-dev",
-        "n2n/n2nutil-bootstrap" : "4.0.0-alpha.6",
+        "n2n/n2nutil-bootstrap": "4.0.0-alpha.6",
         "hnm/ch-hnm-util": "7.1.x-dev"
     },
     "type": "project"
